@@ -1,1 +1,2 @@
 print("panuwat")
+print("mangsang")
