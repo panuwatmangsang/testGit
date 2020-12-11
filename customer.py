@@ -1,2 +1,3 @@
 print("panuwat")
-print("mangsang")
+prinat("mangsng")
+print("nut")
